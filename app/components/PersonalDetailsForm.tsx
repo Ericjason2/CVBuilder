@@ -1,3 +1,4 @@
+"use client";
 import { PersonalDetails } from "@/type";
 import React from "react";
 
